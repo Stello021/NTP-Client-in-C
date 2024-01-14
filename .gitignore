@@ -36,6 +36,8 @@
 *.x86_64
 *.hex
 
+#Batch files
+*.bat
 # Debug files
 *.dSYM/
 *.su
