@@ -38,6 +38,7 @@
 
 #Batch files
 *.bat
+
 # Debug files
 *.dSYM/
 *.su
